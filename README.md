@@ -1,5 +1,5 @@
 # NOBL3-wrld
-*DeFi, NFT, P2E lover* 😂
+*DeFi, NFT, P2E lover* 😄
 ## What I want to accomplish
 - Build smart contracts for the spaces listed above
 - Collaborate with like-minded people on this platform
